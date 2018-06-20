@@ -1,0 +1,3 @@
+[submodule "subrp"]
+	path = subrp
+	url = https://github.com/testcc2/subrepo/
